@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Helvetica";
+    src: url("./Font/HelveticaNeueforOrange2015_Arabic/DesktopFonts/HelveticaNeueLTArabic-Bold.ttf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Helvetica";
+    src: url("./Font/HelveticaNeueforOrange2015_Arabic/DesktopFonts/HelveticaNeueLTArabic-Roman.ttf");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Helvetica";
+    src: url("./Font/HelveticaNeueforOrange2015_Arabic/DesktopFonts/HelveticaNeueLTArabic-Light.ttf");
+    font-weight: lighter;
+}
